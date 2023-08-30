@@ -1,0 +1,13 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+.carousel-item img{
+    height: 500px;
+    object-fit: cover;
+}
+
+.round-btn-sizing{
+    width: 75px;
+    height: 75px;
+}
