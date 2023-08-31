@@ -10,4 +10,10 @@
 .round-btn-sizing{
     width: 75px;
     height: 75px;
+    bottom: 20px;
+    right: 20px;
+}
+
+.card-img-top{
+    height: 20vh;
 }
